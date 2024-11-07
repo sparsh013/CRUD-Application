@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sparsh013/CRUD-Application.git/static/css/main.7b5f0c8d.css",
-    "main.js": "/sparsh013/CRUD-Application.git/static/js/main.df15ea22.js",
-    "index.html": "/sparsh013/CRUD-Application.git/index.html",
-    "main.7b5f0c8d.css.map": "/sparsh013/CRUD-Application.git/static/css/main.7b5f0c8d.css.map",
-    "main.df15ea22.js.map": "/sparsh013/CRUD-Application.git/static/js/main.df15ea22.js.map"
+    "main.css": "/CRUD-Application/static/css/main.7b5f0c8d.css",
+    "main.js": "/CRUD-Application/static/js/main.1f521e19.js",
+    "index.html": "/CRUD-Application/index.html",
+    "main.7b5f0c8d.css.map": "/CRUD-Application/static/css/main.7b5f0c8d.css.map",
+    "main.1f521e19.js.map": "/CRUD-Application/static/js/main.1f521e19.js.map"
   },
   "entrypoints": [
     "static/css/main.7b5f0c8d.css",
-    "static/js/main.df15ea22.js"
+    "static/js/main.1f521e19.js"
   ]
 }
