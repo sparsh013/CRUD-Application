@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sparsh013/CRUD-Application.git/static/css/main.7b5f0c8d.css",
+    "main.js": "/sparsh013/CRUD-Application.git/static/js/main.df15ea22.js",
+    "index.html": "/sparsh013/CRUD-Application.git/index.html",
+    "main.7b5f0c8d.css.map": "/sparsh013/CRUD-Application.git/static/css/main.7b5f0c8d.css.map",
+    "main.df15ea22.js.map": "/sparsh013/CRUD-Application.git/static/js/main.df15ea22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5f0c8d.css",
+    "static/js/main.df15ea22.js"
+  ]
+}
